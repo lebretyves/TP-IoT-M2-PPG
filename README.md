@@ -8,7 +8,9 @@ Travail réalisé à partir du notebook étudiant de Nicolas Laurio, Digi5, modu
 - [Synthèse](analyses/m2_tp1/synthese.md) : les cinq lignes demandées, la ligne de résultats et le tableau générés par le code fourni.
 - [Les six bonus](analyses/m2_tp1/bonus/TP_M2_1_Bonus_eq02.ipynb) : notebook exécuté dans un dossier séparé. Les tableaux détaillés sont dans `bonus/resultats/`.
 
-Dans le code du notebook principal, seuls `EQUIPE = 2` et le texte de `SYNTHESE` ont été modifiés. Aucun calcul ni code d'export fourni n'a été changé. Les essais demandés ont été réalisés, leurs résultats sont consignés dans les réponses, puis les réglages de référence ont été rétablis.
+Dans le code du notebook principal, seuls `EQUIPE = "2"` et le texte de `SYNTHESE` ont été remplis. Aucun calcul ni code d'export fourni n'a été changé. Les essais demandés ont été réalisés, leurs résultats sont consignés dans les réponses, puis les réglages de référence ont été rétablis.
+
+La mise à jour du professeur (`TP_M2_1_Signal_PPG 1.ipynb`) est intégrée : elle contrôle et convertit le numéro d'équipe, accepte par exemple `"02"`, vérifie la plage 1–99 et normalise le choix des données synthétiques. Elle ne modifie pas les algorithmes du TP. Une réexécution confirme que les sorties numériques du groupe 2 sont inchangées.
 
 ## Données et résultats du groupe 2
 
