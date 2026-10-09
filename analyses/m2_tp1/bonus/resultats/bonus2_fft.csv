@@ -1,0 +1,5 @@
+Méthode,MAE globale (bpm),MAE 200–240 s (bpm),Disponibilité (%)
+"Pics, sans artefact",0.7987289230092033,0.7820289260260292,100.0
+"FFT, sans artefact",1.419661733615222,1.375,100.0
+"Pics, avec artefact",2.3509635629998265,19.07622114178493,100.0
+"FFT, avec artefact",3.160676532769556,19.7125,100.0

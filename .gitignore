@@ -1,0 +1,9 @@
+data/
+data/bidmc_*.csv
+tmp/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+output/
+*.zip
+TP_M2_1_Signal_PPG_etudiant*.pdf

@@ -1,0 +1,5 @@
+Signal,Règle,Transmission (%),MAE transmise (bpm)
+BIDMC original,CV et plausibilité,98.30866807610994,0.8022108509274817
+BIDMC original,"CV, plausibilité et forme",90.69767441860465,0.7941976736006547
+BIDMC avec artefact,CV et plausibilité,90.06342494714588,0.8036506913796029
+BIDMC avec artefact,"CV, plausibilité et forme",84.14376321353065,0.8021544296890443
