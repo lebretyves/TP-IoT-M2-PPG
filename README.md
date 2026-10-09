@@ -35,7 +35,7 @@ Le script lance le notebook depuis la racine du dépôt, sans modifier ses cellu
 Pour consulter les graphiques dans Jupyter :
 
 ```powershell
-jupyter notebook
+python -m notebook
 ```
 
 Dans Google Colab, importer le notebook principal, puis exécuter les cellules dans l'ordre. Ne pas oublier de télécharger le notebook exécuté et `synthese.md` avant de fermer la session.
